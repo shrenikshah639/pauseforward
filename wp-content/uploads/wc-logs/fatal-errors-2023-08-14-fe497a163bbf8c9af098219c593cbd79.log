@@ -1,0 +1,1533 @@
+2023-08-14T07:01:45+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:46+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:53+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:53+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:53+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:54+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:01:54+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T07:02:29+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 36
+
+2023-08-14T08:28:44+00:00 CRITICAL syntax error, unexpected token "." in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php on line 89
+
+2023-08-14T11:25:09+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:25:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:25:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:25:54+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:25:56+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:26:06+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:26:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:26:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:26:19+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:26:53+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:27:10+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:27:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:27:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:27:55+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:27:57+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:28:07+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:28:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:28:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:28:20+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:28:54+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:29:11+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:29:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:29:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:30:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:30:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:31:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:31:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:32:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:32:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:32:50+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:33:00+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:33:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:33:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:33:48+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:34:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:34:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:34:38+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:35:10+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:35:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:35:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:35:49+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:36:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:36:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:36:37+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:36:40+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:37:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:37:14+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:38:31+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:39:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:39:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:40:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:40:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:41:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:41:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:42:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:42:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:43:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:43:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:43:39+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:44:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:44:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:44:39+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:45:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:45:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:48:16+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:48:16+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:48:50+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:49:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:49:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:49:14+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:49:50+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:50:13+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 32
+
+2023-08-14T11:50:13+00:00 CRITICAL syntax error, unexpected token "<", expecting end of file in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 32
+
+2023-08-14T11:53:50+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:54:02+00:00 CRITICAL Uncaught Error: Failed opening required '/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-cron.php(46): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:54:07+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:54:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:54:13+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:54:19+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T11:57:10+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:57:11+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:57:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:57:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:57:33+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T11:57:40+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:05:28+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:05:30+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:05:32+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:05:51+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:06:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:06:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:07:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:07:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:07:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:07:34+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:07:44+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:08:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:08:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:08:35+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:09:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:09:13+00:00 CRITICAL Uncaught Error: Failed opening required 'https://team2.devhostserver.com/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:11:28+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T12:11:32+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T12:11:47+00:00 CRITICAL Uncaught Error: Failed opening required '/home/team2devhostserv/public_html/include/wc-customize-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:5
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 5
+
+2023-08-14T12:12:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#10 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:12:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#10 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:12:16+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#10 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#11 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:12:38+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#10 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:12:53+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#10 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#11 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:13:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#10 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:13:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_widgets_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/widgets.php(1858): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_widgets_init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#10 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:13:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:13:44+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:14:04+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:14:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:14:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:14:15+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:14:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:06+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:13+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_endpoint" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:47+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_doctor_custom_post_type" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:15:50+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_doctor_custom_post_type" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#6 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#7 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:16:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_doctor_custom_post_type" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:16:14+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_doctor_custom_post_type" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#5 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:16:39+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_query_vars" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/class-wp.php(298): apply_filters()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/class-wp.php(779): WP->parse_request()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/functions.php(1335): WP->main()
+#4 /home/team2devhostserv/public_html/pause/wp-blog-header.php(16): wp()
+#5 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:17:27+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_mp_query_vars" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(205): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/class-wp.php(298): apply_filters()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/class-wp.php(779): WP->parse_request()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/functions.php(1335): WP->main()
+#4 /home/team2devhostserv/public_html/pause/wp-blog-header.php(16): wp()
+#5 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#6 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:28:20+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:29:08+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:32:47+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:32:50+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:33:20+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:41:00+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:41:02+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "bootscore_child_enqueue_styles" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-includes/script-loader.php(2225): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): wp_enqueue_scripts()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(3053): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php(31): wp_head()
+#8 /home/team2devhostserv/public_html/pause/wp-includes/template.php(785): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-includes/template.php(720): load_template()
+#10 /home/team2devhostserv/public_html/pause/wp-includes/general-template.php(48): locate_template()
+#11 /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-main/index.php(16): get_header()
+#12 /home/team2devhostserv/public_html/pause/wp-includes/template-loader.php(106): include('/home/team2devh...')
+#13 /home/team2devhostserv/public_html/pause/wp-blog-header.php(19): require_once('/home/team2devh...')
+#14 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#15 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-14T12:45:42+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:45:44+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:46:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:46:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:46:56+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:47:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:47:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:47:15+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:47:17+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:47:33+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-blog-header.php(13): require_once('/home/team2devh...')
+#4 /home/team2devhostserv/public_html/pause/index.php(17): require('/home/team2devh...')
+#5 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:48:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:48:14+00:00 CRITICAL Uncaught Error: Failed opening required '/include/custom-functions.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:4
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-settings.php(600): include()
+#1 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#2 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#3 /home/team2devhostserv/public_html/pause/wp-admin/admin-ajax.php(22): require_once('/home/team2devh...')
+#4 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php on line 4
+
+2023-08-14T12:55:13+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:13+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:16+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:18+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:36+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:38+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+
+2023-08-14T12:55:40+00:00 CRITICAL Cannot redeclare pf_doctor_custom_post_type() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:82) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 76
+

@@ -1,0 +1,12 @@
+2023-08-21T09:12:18+00:00 CRITICAL Unmatched '}' in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-doctors.php on line 16
+
+2023-08-21T09:12:55+00:00 CRITICAL Unmatched '}' in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-doctors.php on line 13
+
+2023-08-21T09:13:23+00:00 CRITICAL Unmatched '}' in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-doctors.php on line 13
+
+2023-08-21T09:29:07+00:00 CRITICAL syntax error, unexpected token "foreach" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-programs.php on line 51
+
+2023-08-21T09:29:09+00:00 CRITICAL syntax error, unexpected token "foreach" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-programs.php on line 51
+
+2023-08-21T09:30:32+00:00 CRITICAL Unclosed '{' on line 51 does not match ')' in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/single-programs.php on line 53
+

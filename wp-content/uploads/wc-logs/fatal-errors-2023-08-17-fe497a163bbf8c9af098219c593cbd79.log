@@ -1,0 +1,60 @@
+2023-08-17T13:42:51+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_acf_option_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-content/plugins/advanced-custom-fields-pro/acf.php(336): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): ACF->init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin.php(34): require_once('/home/team2devh...')
+#10 /home/team2devhostserv/public_html/pause/wp-admin/plugins.php(10): require_once('/home/team2devh...')
+#11 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-17T13:42:56+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_acf_option_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-content/plugins/advanced-custom-fields-pro/acf.php(336): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): ACF->init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin.php(34): require_once('/home/team2devh...')
+#10 /home/team2devhostserv/public_html/pause/wp-admin/plugins.php(10): require_once('/home/team2devh...')
+#11 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-17T13:43:38+00:00 CRITICAL Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "pf_acf_option_init" not found or invalid function name in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php:310
+Stack trace:
+#0 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#1 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#2 /home/team2devhostserv/public_html/pause/wp-content/plugins/advanced-custom-fields-pro/acf.php(336): do_action()
+#3 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(310): ACF->init()
+#4 /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters()
+#5 /home/team2devhostserv/public_html/pause/wp-includes/plugin.php(517): WP_Hook->do_action()
+#6 /home/team2devhostserv/public_html/pause/wp-settings.php(632): do_action()
+#7 /home/team2devhostserv/public_html/pause/wp-config.php(98): require_once('/home/team2devh...')
+#8 /home/team2devhostserv/public_html/pause/wp-load.php(50): require_once('/home/team2devh...')
+#9 /home/team2devhostserv/public_html/pause/wp-admin/admin.php(34): require_once('/home/team2devh...')
+#10 /home/team2devhostserv/public_html/pause/wp-admin/plugins.php(10): require_once('/home/team2devh...')
+#11 {main}
+  thrown in /home/team2devhostserv/public_html/pause/wp-includes/class-wp-hook.php on line 310
+
+2023-08-17T13:52:41+00:00 CRITICAL syntax error, unexpected token "endif" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php on line 79
+
+2023-08-17T13:52:44+00:00 CRITICAL syntax error, unexpected token "endif" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php on line 79
+
+2023-08-17T13:53:15+00:00 CRITICAL syntax error, unexpected token "endif" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php on line 79
+
+2023-08-17T13:53:39+00:00 CRITICAL syntax error, unexpected token "endif" in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/header.php on line 79
+
+2023-08-17T17:21:58+00:00 CRITICAL Cannot redeclare pf_acf_option_init() (previously declared in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/functions.php:63) in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/include/custom-functions.php on line 104
+
+2023-08-17T17:45:34+00:00 CRITICAL Unclosed '{' on line 22 in /home/team2devhostserv/public_html/pause/wp-content/themes/bootscore-child-main/front-page.php on line 178
+
